@@ -1,4 +1,5 @@
-RForEngineers
-=============
+R For Engineers
+===============
 
-R tutorials and examples for engineers.
+Super condensed tutorials for learning R and solving engineering problems.
+

@@ -11,6 +11,11 @@ print(m1)
 cat("m2:\n")
 print(m2)
 
+# Dimensions
+dimM1 <- dim(m1)
+cat('Dimensions of matrix:\n')
+print(dimM1) # row column
+
 # Sum of matrices
 msum <- m1 + m2
 cat("Matrix sum:\n")

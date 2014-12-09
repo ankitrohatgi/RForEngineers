@@ -20,8 +20,8 @@ R is free to use and is becoming increasingly popular in the data analysis commu
 
 ## Contents
 
-1. basics.R - Basics such as declaring variables, lists, loops, functions etc.
-2. matrices.R - Working with matrices.
+1. [basics.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/basics.R) - Basics such as declaring variables, lists, loops, functions etc.
+2. [matrices.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/matrices.R) - Working with matrices.
 
 Following will be available soon:
 

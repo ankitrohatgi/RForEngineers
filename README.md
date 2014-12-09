@@ -1,6 +1,8 @@
 # R For Engineers
 
 Super condensed tutorials for learning R and solving engineering problems.
+## Author
+Ankit Rohatgi, <ankitrohatgi@hotmail.com>
 
 ## Purpose
 Commercial softwares such as Matlab and Mathematica are extremely popular among engineering students and faculty as they are powerful tools and often available for free to the academic community. Outside the academic world, it is often not practical to purchase these expensive commercial softwares which makes continuing to practice and improve engineering skills difficult. 
@@ -15,4 +17,20 @@ R is free to use and is becoming increasingly popular in the data analysis commu
 - R works on Windows, Linux and MacOS.
 - R is generally considered to be better and easier than Python for actual data analysis.
 - R is extremly flexible and powerful.
+
+## Contents
+
+1. basics.R - Basics such as declaring variables, lists, loops, functions etc.
+2. matrices.R - Working with matrices.
+
+Following will be available soon:
+
+3. basicCalculus.R - Integration and differentiation.
+4. complex.R - Complex numbers.
+5. ode.R - Ordinary differential equations.
+6. pde.R - Partial differential equations.
+7. optimization.R - Simple optimization.
+8. curveFitting.R - Curve fitting.
+9. interpolation.R - Interpolation.
+10. distributions.R - Simple distributions.
 

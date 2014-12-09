@@ -22,11 +22,11 @@ R is free to use and is becoming increasingly popular in the data analysis commu
 
 1. [basics.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/basics.R) - Basics such as declaring variables, lists, loops, functions etc.
 2. [matrices.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/matrices.R) - Working with matrices.
+3. [complex.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/complex.R) - Complex numbers.
 
 Following will be available soon:
 
-3. basicCalculus.R - Integration and differentiation.
-4. complex.R - Complex numbers.
+4. basicCalculus.R - Integration and differentiation.
 5. ode.R - Ordinary differential equations.
 6. pde.R - Partial differential equations.
 7. optimization.R - Simple optimization.

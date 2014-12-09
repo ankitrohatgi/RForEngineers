@@ -23,7 +23,7 @@ R is free to use and is becoming increasingly popular in the data analysis commu
 1. [basics.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/basics.R) - Basics such as declaring variables, lists, loops, functions etc.
 2. [matrices.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/matrices.R) - Working with matrices.
 3. [complex.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/complex.R) - Complex numbers.
-4. [basicCalculus.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/complex.R) - Integration and differentiation.
+4. [basicCalculus.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/basicCalculus.R) - Integration and differentiation.
 
 Following will be available soon:
 

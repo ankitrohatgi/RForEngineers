@@ -20,11 +20,15 @@ R is free to use and is becoming increasingly popular in the data analysis commu
 
 ## Contents
 
-1. [basics.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/basics.R) - Basics such as declaring variables, lists, loops, functions etc.
-2. [matrices.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/matrices.R) - Working with matrices.
-3. [complex.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/complex.R) - Complex numbers.
-4. [basicCalculus.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/basicCalculus.R) - Integration and differentiation.
-5. [ode.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/ode.R) - Ordinary differential equations.
+1. Basics
+    1. [basics.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/Basics/basics.R) - Basics such as declaring variables, lists, loops, functions etc.
+    2. [matrices.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/Basics/matrices.R) - Working with matrices.
+    3. [complex.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/Basics/complex.R) - Complex numbers.
+    4. [basicCalculus.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/Basics/basicCalculus.R) - Integration and differentiation.
+    5. [ode.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/Basics/ode.R) - Ordinary differential equations.
+
+2. Fluid Mechanics
+    1. [flowPastSphere.R](https://github.com/ankitrohatgi/RForEngineers/blob/master/Fluid%20Mechanics/flowPastSphere.R) - Plot fluid streamlines around a sphere in uniform stokes flow.
 
 Following will be available soon:
 
@@ -33,4 +37,6 @@ Following will be available soon:
 8. curveFitting.R - Curve fitting.
 9. interpolation.R - Interpolation.
 10. distributions.R - Simple distributions.
+
+
 
